@@ -19,7 +19,7 @@ This is a very slim dependency injector for the Angie Framework. It will, based 
 **Note**: as of version 1.0.0, this package can no longer be used standalone, it must be used as a byproduct of an [Angie](https://github.com/angie-framework/angie "Angie") application via the [Angie Framework](https://github.com/angie-framework "Angie Framework"). 0.10.x versions and below will continue to be supported for standalone use.
 
 ```bash
-npm i -g angie-injector
+npm i --save angie-injector
 ```
 ```javascript
 import $Injector, { $injectionBinder as binder } from 'angie-injector';
