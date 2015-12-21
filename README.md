@@ -2,6 +2,8 @@
 
 ## Angie Injector
 
+[![Join the chat at https://gitter.im/benderTheCrime/angie-injector](https://badges.gitter.im/benderTheCrime/angie-injector.svg)](https://gitter.im/benderTheCrime/angie-injector?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![npm version](https://badge.fury.io/js/angie-injector.svg)](http://badge.fury.io/js/angie-injector "npm version")
 ![iojs support](https://img.shields.io/badge/iojs-1.7.1+-brightgreen.svg "iojs support")
 ![node support](https://img.shields.io/badge/node-0.12.0+-brightgreen.svg "node support")
