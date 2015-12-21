@@ -2,9 +2,9 @@
   "name": "angie-injector",
   "version": "1.0.0",
   "author": {
-    "name" : "Joe Groseclose",
-    "email" : "joe.groseclose@gmail.com",
-    "url" : "http://joegroseclose.com"
+    "name": "Joe Groseclose",
+    "email": "joe.groseclose@gmail.com",
+    "url": "http://joegroseclose.com"
   },
   "description": "Dependency Injection Designed for the Angie Framework",
   "license": "MIT",
@@ -46,6 +46,7 @@
     "chai": "2.3.0",
     "coveralls": "^2.11.6",
     "esdoc": "^0.2.5",
+    "eslint": "^1.10.3",
     "eslint-config-google": "^0.3.0",
     "gulp": "3.9.0",
     "gulp-babel": "5.2.1",
